@@ -46,18 +46,45 @@ Features include:
 
 A communication and publishing platform focused on independent media.
 
-Planned capabilities include:
-
-- Internet radio
-- Podcast publishing
-- Blogging
-- Federated social integration
-- Community media management
-- Self-hosted deployments
-
 ### Lucerna Media
 
 The creative branch focused on design, education, multimedia production, and digital storytelling.
+
+---
+
+## Ordo Interface Preview
+
+Ordo is designed around dedicated workspaces rather than a single generic chat window. Each mode carries its own context, tools, memory, and workflow behavior.
+
+### Dashboard
+
+![Ordo Dashboard](assets/screenshots/dashboard.png)
+
+### General Assistant
+
+![General Assistant](assets/screenshots/general-assistant.png)
+
+### Coding Mode
+
+![Coding Mode](assets/screenshots/coding-mode.png)
+
+### Creative Mode
+
+![Creative Mode](assets/screenshots/creative-mode.png)
+
+### Memory & Knowledge
+
+![Memory](assets/screenshots/memory.png)
+
+### Tools & Connectors
+
+![Tools](assets/screenshots/tools-connectors.png)
+
+### Security & Enforcers
+
+![Security](assets/screenshots/security-enforcers.png)
+
+The interface is not merely aesthetic. The layout reflects the underlying architecture, separating domains, workflows, tools, memory, and security systems into focused environments.
 
 ---
 
@@ -117,12 +144,6 @@ Open an issue, submit a pull request, or start a discussion.
 - Publishing workflows
 - Federation support
 - Community communication tools
-
-### Lucerna Labs
-- Creative tooling
-- Open communication systems
-- Privacy-focused infrastructure
-- Educational resources
 
 ---
 
