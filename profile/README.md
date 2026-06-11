@@ -2,7 +2,7 @@
 
 > Bringing ideas into the light.
 
-Lucerna Labs is an independent open-source software initiative focused on AI-native systems, creative technology, communication platforms, and privacy-first tools.
+Lucerna Labs is the open-source software division of **Lucerna Media**, focused on AI-native systems, creative technology, communication platforms, and privacy-first tools.
 
 We build software for creators, researchers, developers, journalists, and communities who value ownership, transparency, and flexibility.
 
@@ -28,9 +28,9 @@ Our work emphasizes:
 
 ## Featured Projects
 
-### Ordo
+### [Ordo](https://github.com/Lucerna-Labs/ordo)
 
-An AI-native orchestration platform built in Rust.
+An AI-native orchestration platform built in Rust. **Now public — available for Windows and Linux.**
 
 Features include:
 
@@ -42,49 +42,19 @@ Features include:
 - Security classifiers and enforcement systems
 - Extensible plugin architecture
 
+Repository: https://github.com/Lucerna-Labs/ordo
+
 ### Nuntius
 
 A communication and publishing platform focused on independent media.
 
-### Lucerna Media
-
-The creative branch focused on design, education, multimedia production, and digital storytelling.
-
 ---
 
-## Ordo Interface Preview
+## Interface
 
 Ordo is designed around dedicated workspaces rather than a single generic chat window. Each mode carries its own context, tools, memory, and workflow behavior.
 
-### Dashboard
-
-![Ordo Dashboard](assets/screenshots/dashboard.png)
-
-### General Assistant
-
-![General Assistant](assets/screenshots/general-assistant.png)
-
-### Coding Mode
-
-![Coding Mode](assets/screenshots/coding-mode.png)
-
-### Creative Mode
-
-![Creative Mode](assets/screenshots/creative-mode.png)
-
-### Memory & Knowledge
-
-![Memory](assets/screenshots/memory.png)
-
-### Tools & Connectors
-
-![Tools](assets/screenshots/tools-connectors.png)
-
-### Security & Enforcers
-
-![Security](assets/screenshots/security-enforcers.png)
-
-The interface is not merely aesthetic. The layout reflects the underlying architecture, separating domains, workflows, tools, memory, and security systems into focused environments.
+The interface is not merely aesthetic—the layout reflects the underlying architecture, separating domains, workflows, tools, memory, and security systems into focused environments.
 
 ---
 
@@ -116,7 +86,7 @@ Technology should help people create, communicate, and express ideas more effect
 - Distributed systems
 - Open protocols
 - Cross-platform development
-- Linux-first deployments
+- Local-first deployments (Windows and Linux)
 
 ---
 
